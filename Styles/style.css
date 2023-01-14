@@ -185,5 +185,10 @@ font-size: 14.6913px;
 
 .player, .blogs, .courses{
     flex-direction: column;
+    padding: 10px;
+    
 }
 
+.section-title{
+    padding-left: 10px;
+}
